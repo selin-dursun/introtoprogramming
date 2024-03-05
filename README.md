@@ -4,7 +4,7 @@ Here are the Python concepts learned in my Intro to Programming Course last seme
 
 # Python Basics: 
 \n1- Types of Data, Assigning Variables, Manipulating Text 
-2- Gathering User Input, Manipulating Numbers 
+\n2- Gathering User Input, Manipulating Numbers 
 3- Control Statements Using Boolean Expressions 
 4- Defining & Using Functions & Modules 
 5- Testing & Debugging 
