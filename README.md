@@ -10,11 +10,11 @@ Here are the Python concepts learned in my Intro to Programming Course last seme
 5- Testing & Debugging 
 6- Lists 
 
-Object-Oriented Programming: 
+# Object-Oriented Programming: 
 1- Working with Files & Exceptions 
 2- Inheritance & Parent-Child Relationships 
 
-Databases: 
+# Databases: 
 1- Relational Databases + ERD
 2- ERD: Attributes + Advanced Relationships 
 3- Logical Diagrams 
