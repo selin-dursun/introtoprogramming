@@ -5,20 +5,20 @@ Here are the Python concepts learned in my Intro to Programming Course last seme
 # Python Basics: 
 1- Types of Data, Assigning Variables, Manipulating Text <br>
 2- Gathering User Input, Manipulating Numbers <br>
-3- Control Statements Using Boolean Expressions 
-4- Defining & Using Functions & Modules 
-5- Testing & Debugging 
-6- Lists 
+3- Control Statements Using Boolean Expressions <br>
+4- Defining & Using Functions & Modules <br>
+5- Testing & Debugging <br>
+6- Lists <br>
 
 # Object-Oriented Programming: 
-1- Working with Files & Exceptions 
-2- Inheritance & Parent-Child Relationships 
+1- Working with Files & Exceptions <br>
+2- Inheritance & Parent-Child Relationships <br>
 
 # Databases: 
-1- Relational Databases + ERD
-2- ERD: Attributes + Advanced Relationships 
-3- Logical Diagrams 
-4- Data: Dirty, Constricted, and Anomalies
-5- Creating a Databases
-6- SQL DCL, Queries + Multiple JOINS 
-7- SQL Subqueries
+1- Relational Databases + ERD <br>
+2- ERD: Attributes + Advanced Relationships <br>
+3- Logical Diagrams <br>
+4- Data: Dirty, Constricted, and Anomalies <br>
+5- Creating a Databases <br>
+6- SQL DCL, Queries + Multiple JOINS <br>
+7- SQL Subqueries <br>
