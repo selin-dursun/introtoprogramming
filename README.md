@@ -3,7 +3,7 @@
 Here are the Python concepts learned in my Intro to Programming Course last semester in Fall 2023.
 
 Python Basics: 
-1- Types of Data, Assigning Variables, Manipulating Text 
+/n1- Types of Data, Assigning Variables, Manipulating Text 
 2- Gathering User Input, Manipulating Numbers 
 3- Control Statements Using Boolean Expressions 
 4- Defining & Using Functions & Modules 
